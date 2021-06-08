@@ -1,0 +1,11 @@
+# Run pip install-r requirements.txt
+matplotlib
+nltk
+notebook
+numpy
+pandas
+scikit-learn
+seaborn
+scipy
+snorkel
+textblob
